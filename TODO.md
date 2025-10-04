@@ -1,0 +1,4 @@
+- [x] Add active tab button styling in Dashboard.js and index.css
+- [x] Add loading and error states for fetchAgents and fetchLists in Dashboard.js
+- [x] Add error handling for unauthorized errors in Dashboard.js
+- [x] Add refresh buttons for agents and lists data in Dashboard.js
